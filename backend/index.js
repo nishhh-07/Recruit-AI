@@ -26,6 +26,7 @@ const allowedOrigins = [
   'http://localhost:5174',
   'http://localhost:3000',
   'https://recruit-ai-lyart.vercel.app',
+  'https://recruit-ai-liart.vercel.app',
   process.env.CLIENT_URL,
 ].filter(Boolean)
 
