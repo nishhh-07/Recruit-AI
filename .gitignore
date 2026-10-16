@@ -1,8 +1,7 @@
-@"
 node_modules/
 .env
 *.env
 dist/
 build/
 uploads/
-"@ | Out-File -FilePath .gitignore -Encoding utf8
+.vscode/
